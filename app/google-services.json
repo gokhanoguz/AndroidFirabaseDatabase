@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "572606365788",
+    "firebase_url": "https://androidfirabasedatabase.firebaseio.com",
+    "project_id": "androidfirabasedatabase",
+    "storage_bucket": "androidfirabasedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572606365788:android:71581c86e16c0778",
+        "android_client_info": {
+          "package_name": "com.javatar.androidfirabasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572606365788-bjh4vcfuq1e46u7p8rrgilt4fc593mu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYIj-J-4APa_kQFWSZcCvmxjFembBeNWo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
