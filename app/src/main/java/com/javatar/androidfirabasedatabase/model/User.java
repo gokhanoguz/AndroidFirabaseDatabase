@@ -5,6 +5,7 @@ package com.javatar.androidfirabasedatabase.model;
  */
 
 public class User {
+
     public String name;
     public String email;
 
